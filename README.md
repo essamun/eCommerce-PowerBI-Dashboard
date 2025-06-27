@@ -36,15 +36,23 @@ This Power BI dashboard analyzes over **1 million eCommerce transactions** and r
 
 ## 🌐 Python Dashboard Reference
 
-This dashboard was inspired by a fully interactive version built with **Python and Streamlit** using:
+This Power BI dashboard was inspired by a fully interactive version built with **Python and Streamlit**, using:
 - `Plotly` for charts
 - `Seaborn` for visual summaries
 - `PyCountry` for map region handling
 
-🧪 You can explore that version here:  
+🧪 You can explore that interactive version here:  
 🔗 [Live Python Dashboard on Streamlit](https://ecom-dashboard-analytics-4rgfidzx3p9dhpbgrexhpv.streamlit.app/)
 
-> 🎥 A short video demo is coming soon!
+🎥 **Watch the 1-minute demo video** below:
+
+[![Watch the demo](https://img.youtube.com/vi/fGtpXKODpbY/0.jpg)](https://youtu.be/fGtpXKODpbY)
+
+> Click the image above to watch a quick walkthrough of the dashboard, highlighting:
+> - Raw data loading
+> - Top 10 Products view
+> - Country-level metrics with map and filters
+> - Excel export for offline reporting
 
 ---
 
